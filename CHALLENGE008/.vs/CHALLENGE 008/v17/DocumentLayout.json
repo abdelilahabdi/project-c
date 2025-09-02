@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CHALLENGE 008\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A68DA34F-77BD-44CA-94B7-EC52FBE1C32C}|CHALLENGE 008\\CHALLENGE 008.vcxproj|C:\\Users\\pc\\source\\repos\\CHALLENGE 008\\CHALLENGE 008\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A68DA34F-77BD-44CA-94B7-EC52FBE1C32C}|CHALLENGE 008\\CHALLENGE 008.vcxproj|solutionrelative:CHALLENGE 008\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CHALLENGE 008\\CHALLENGE 008\\FileName.c",
+              "RelativeDocumentMoniker": "CHALLENGE 008\\FileName.c",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CHALLENGE 008\\CHALLENGE 008\\FileName.c",
+              "RelativeToolTip": "CHALLENGE 008\\FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-02T15:03:26.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

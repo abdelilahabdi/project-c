@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\pc\source\repos\CHALLENGE 002\CHALLENGE 002\FileName.c(14,19): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  CHALLENGE 002.vcxproj -> C:\Users\pc\source\repos\CHALLENGE 002\x64\Debug\CHALLENGE 002.exe

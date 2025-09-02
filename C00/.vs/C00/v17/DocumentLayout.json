@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\C00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1990C73A-3283-4C31-A6E8-37C06B6FE108}|C00\\C00.vcxproj|C:\\Users\\pc\\source\\repos\\C00\\C00\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1990C73A-3283-4C31-A6E8-37C06B6FE108}|C00\\C00.vcxproj|solutionrelative:C00\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\C00\\C00\\FileName.c",
+              "RelativeDocumentMoniker": "C00\\FileName.c",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\C00\\C00\\FileName.c",
+              "RelativeToolTip": "C00\\FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-02T09:57:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

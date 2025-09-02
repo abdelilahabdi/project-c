@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\pc\source\repos\PROJECT 004\PROJECT 004\FileName.c(10,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  PROJECT 004.vcxproj -> C:\Users\pc\source\repos\PROJECT 004\x64\Debug\PROJECT 004.exe
