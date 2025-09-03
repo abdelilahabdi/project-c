@@ -1,4 +1,0 @@
-﻿  FileName.c
-C:\Users\pc\source\repos\CHALLENGE 008\CHALLENGE 008\FileName.c(15,12): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-C:\Users\pc\source\repos\CHALLENGE 008\CHALLENGE 008\FileName.c(16,23): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-  CHALLENGE 008.vcxproj -> C:\Users\pc\source\repos\CHALLENGE 008\x64\Debug\CHALLENGE 008.exe
